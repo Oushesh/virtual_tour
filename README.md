@@ -7,3 +7,7 @@
    * Input: Panorama Image
    * Output: Equirectangular image
    * Refactor: (index.html: )
+
+## Crypto:
+   Gemini, celsius, nexo
+   cold storage
