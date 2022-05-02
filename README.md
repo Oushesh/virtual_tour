@@ -17,3 +17,4 @@
 ## Crash course on next.js: https://www.youtube.com/watch?v=mTz0GXj8NN0
 
 ## https://www.lidar3d.io/ This is what we will do in Mauritius
+
